@@ -1,0 +1,22 @@
+description: Ultralytics YOLOv8n-pose model trained on /notebooks/pose_detection_dataset/data.yaml
+author: Ultralytics
+date: '2024-07-10T17:10:44.087703'
+version: 8.2.52
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: pose
+batch: 1
+imgsz:
+- 224
+- 224
+names:
+  0: Stop
+  1: hands-up
+  2: left-hand-raised-sideways
+  3: left-hand-raised-sideways2
+  4: right-hand-raised-sideways
+  5: standing
+kpt_shape:
+- 12
+- 3

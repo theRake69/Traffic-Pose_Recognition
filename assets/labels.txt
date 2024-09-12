@@ -1,0 +1,6 @@
+    Stop
+    hands-up
+    left-hand-raised-sideways
+    left-hand-raised-sideways2
+    right-hand-raised-sideways
+    standing
